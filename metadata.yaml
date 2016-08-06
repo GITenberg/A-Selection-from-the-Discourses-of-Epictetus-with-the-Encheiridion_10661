@@ -1,0 +1,38 @@
+_repo: A-Selection-from-the-Discourses-of-Epictetus-with-the-Encheiridion_10661
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Long, George
+    birthdate: 1800
+    deathdate: 1879
+    gutenberg_agent_id: '2256'
+    url: http://www.gutenberg.org/2009/agents/2256
+    wikipedia: http://en.wikipedia.org/wiki/George_Long
+creator:
+  author:
+    agent_name: Epictetus
+    aliases:
+    - Epitteto
+    - Epicteto
+    - Epiktit
+    birthdate: 55
+    deathdate: 135
+    gutenberg_agent_id: '452'
+    url: http://www.gutenberg.org/2009/agents/452
+    wikipedia: http://en.wikipedia.org/wiki/Epictetus
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy -- Early works to 1800'
+- GITenberg
+title: A Selection from the Discourses of Epictetus with the Encheiridion
+url: http://www.gutenberg.org/ebooks/10661
